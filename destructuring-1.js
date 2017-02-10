@@ -3,7 +3,7 @@ introduce({
   age: 27,
   gender: 'male',
   species: 'human',
-  profession: 'developer',
+  profession: 'developer'
 })
 
 function introduce(options) {
